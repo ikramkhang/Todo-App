@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.todo-list{
+    border: 2px solid black;
+    width: 800px;
+    height: 500px;
+    margin-top: 50px;
+    margin-left: 18%;
+    background-color: skyblue;
+}
+.ul-li{
+    border: 2px solid black;
+    width: 750px;
+    height: 350px;
+    margin-top: 30px;
+    margin-left: 3%;
+    list-style: none;
+    background-color: white;
+}
+#seacrch-bar{
+    width: 600px;
+    height: 30px;
+    margin-left: 60px;
+    margin-top: 30px;
+}
+.addbtn{
+    width: 100px;
+    height: 30px;
+}
+.head{
+    text-align: center;
+
+}
